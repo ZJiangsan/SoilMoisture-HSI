@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.hdf5
+*.xlsx
+*.xls
+soil_*_results/
+*.zip
+.DS_Store
