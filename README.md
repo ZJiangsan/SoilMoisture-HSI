@@ -8,7 +8,7 @@ The study includes 63 physical soils sampled at 21 Austrian sites and 426 repeat
 
 ## Code currently available
 
-- `soil_moisture_rigorous_v4.py`: stratified group-based evaluation of multi-head ResFCN variants and PLSR benchmarks.
+- `soil_resfcn.py`: stratified group-based evaluation of multi-head ResFCN variants and PLSR benchmarks.
 - `soil_moisture_final_controls.py`: endpoint, one-random-moisture and all-moisture calibration strategies.
 - `analyze_soil_moisture_evidence.py`: paired prediction analysis and soil-level uncertainty.
 
